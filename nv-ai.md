@@ -8,6 +8,7 @@
     - Includes MegatronLM and Megatron Core
 - Nemo Megatron Bridge, https://github.com/NVIDIA-NeMo/Megatron-Bridge
     - provides pretraining, SFT and LoRA for popular LLM and VLM models.
+- Emerging Optimizers, https://github.com/NVIDIA-NeMo/Emerging-Optimizers
 - Nemo RL, https://github.com/NVIDIA-NeMo/RL
 - Nemo Gym, https://github.com/NVIDIA-NeMo/Gym
 - Cosmos-RL, https://github.com/nvidia-cosmos/cosmos-rl
