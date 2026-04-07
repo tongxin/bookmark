@@ -3,7 +3,7 @@
 -----------------
 ## World model & interactive AI
 
-- Genie, [[Project](https://sites.google.com/view/genie-2024/home)][[Paper](https://arxiv.org/abs/2402.15391)]
+- Genie[2024], [[Project](https://sites.google.com/view/genie-2024/home)][[Paper](https://arxiv.org/abs/2402.15391)]
     - Learns latent actions that generalize to diverse environments.
     - Self supervised trained on video only data.
     - Architecture
@@ -32,7 +32,7 @@
                 - apply random masks on input tokens.
         
 
-- AdaWorld, [[Project](https://adaptable-world-model.github.io/)][[Code](https://github.com/Little-Podi/AdaWorld)][[Paper](https://arxiv.org/abs/2503.18938)]
+- AdaWorld[ICML'2025], [[Project](https://adaptable-world-model.github.io/)][[Code](https://github.com/Little-Podi/AdaWorld)][[Paper](https://arxiv.org/abs/2503.18938)]
     - Learns a latent action VAE, improving scene transfer results.
     - Self-supervised trained on large scale videos.
     - Architecture
@@ -40,3 +40,13 @@
 
 
 -----------------
+
+## Spatial intelligence
+
+- On Evaluation of Embodied Navigation Agents[2018], [[paper](https://arxiv.org/abstract/1807.06757)]
+    - Proposes a measure to evaluate successfulness of agent navigation. Key points:
+    - Agents must signal 'Done' to indicate they are aware of their status
+    - Navigation performance is a weighed sum of successfulness over trials where weights are inverse normalized path length.
+    - Jitendra Malik proposes to use inverse normalized time instead of path length for weights in his X tweets.
+
+

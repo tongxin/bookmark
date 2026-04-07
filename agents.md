@@ -17,3 +17,4 @@
 - BackendBench, [[github](https://github.com/meta-pytorch/BackendBench)]
 - ComputeEval, [[github](https://github.com/NVIDIA/compute-eval)], [[dataset](https://huggingface.co/datasets/nvidia/compute-eval)]
 - CUDABench, [[github](https://github.com/CUDA-Bench/CUDABench)], [[paper](https://arxiv.org/abs/2603.02236)]
+- KernelBot, [[github](https://github.com/gpu-mode/kernelbot)]
