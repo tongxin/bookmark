@@ -11,7 +11,9 @@
 
 ## Kernel benchmarks
 
-- KernelBench, [github](https://github.com/ScalingIntelligence/KernelBench), [paper](https://arxiv.org/abs/2502.10517)
-- FlashInfer-Bench, [github](https://github.com/flashinfer-ai/flashinfer-bench), [paper](https://arxiv.org/abs/2601.00227)
-- TritonBench, [github](https://github.com/thunlp/TritonBench)
-- BackendBench, [github](https://github.com/meta-pytorch/BackendBench)
+- KernelBench, [[github](https://github.com/ScalingIntelligence/KernelBench)], [[paper](https://arxiv.org/abs/2502.10517)]
+- FlashInfer-Bench, [[github](https://github.com/flashinfer-ai/flashinfer-bench)], [[paper](https://arxiv.org/abs/2601.00227)]
+- TritonBench, [[github](https://github.com/thunlp/TritonBench)]
+- BackendBench, [[github](https://github.com/meta-pytorch/BackendBench)]
+- ComputeEval, [[github](https://github.com/NVIDIA/compute-eval)], [[dataset](https://huggingface.co/datasets/nvidia/compute-eval)]
+- CUDABench, [[github](https://github.com/CUDA-Bench/CUDABench)], [[paper](https://arxiv.org/abs/2603.02236)]
