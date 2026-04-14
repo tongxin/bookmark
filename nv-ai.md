@@ -14,7 +14,7 @@
 - Cosmos-RL, https://github.com/nvidia-cosmos/cosmos-rl
 
 -------------------
-## World Model
+## GenAI & World Model
 
 - Cosmos-Predict2.5, https://github.com/nvidia-cosmos/cosmos-predict2.5, [Paper](https://arxiv.org/abs/2511.00062)
 
@@ -38,6 +38,8 @@
 - SAGE, https://github.com/NVlabs/sage
     - Comes with a 10K indoor scene dataset
     - Generates 3D scenes for training embodied AI
+
+- DreamZero, [[project](https://dreamzero0.github.io/)], [[github](https://github.com/dreamzero0/dreamzero)], [[paper](https://arxiv.org/abs/2602.15922)]
 
 
 -------------------

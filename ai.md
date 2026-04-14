@@ -1,7 +1,15 @@
 # AI research works by topics
 
+
 -----------------
-## World model & interactive AI
+## GenAI & World model & interactive AI & VLA
+
+- Classifier free Diffusion Guidance[2021], [[paper](https://arxiv.org/abs/2207.12598)]
+    - Learns to predict the noise given the condition and without condition.
+    - The difference of the two predicted errors represents the direction towards satisfying the condition.
+    - The uses a guiding scale w to interpolate/extrapolate the noise prediction along this direction.
+    - Small w forces weak guidance, large w strong guidance.
+
 
 - Genie[2024], [[Project](https://sites.google.com/view/genie-2024/home)][[Paper](https://arxiv.org/abs/2402.15391)]
     - Learns latent actions that generalize to diverse environments.
@@ -30,13 +38,25 @@
             - to train:
                 - apply cross entroy loss between all predicted frame tokens and ground truth tokens.
                 - apply random masks on input tokens.
-        
+
+- Diffusion Forcing, [[project](https://www.boyuan.space/diffusion-forcing/)], [[github](https://github.com/buoyancy99/diffusion-forcing)], [[paper](https://arxiv.org/abs/2407.01392)]
+
+
+- Wan, [[github](https://github.com/Wan-Video/Wan2.2)], [[paper](https://arxiv.org/abs/2503.20314)]
+
+- Magi-1, [[project](https://magi-1.ai/)], [[github](https://github.com/SandAI-org/MAGI-1)], [[paper](https://arxiv.org/abs/2505.13211)]
+    - Learns to denoise per video chunk noise, using flow-matching to train.
+    - Uses a transformer VAE for image encoding/decoding.
 
 - AdaWorld[ICML'2025], [[Project](https://adaptable-world-model.github.io/)][[Code](https://github.com/Little-Podi/AdaWorld)][[Paper](https://arxiv.org/abs/2503.18938)]
     - Learns a latent action VAE, improving scene transfer results.
     - Self-supervised trained on large scale videos.
     - Architecture
         - Uses the predicted latent actions and a denoiser network to iteratively refine next frame generation.
+
+- Hunyuan WorldPlay, [[github](https://github.com/Tencent-Hunyuan/HY-WorldPlay)], [[paper](https://arxiv.org/abs/2512.14614), [paper](https://arxiv.org/abs/2602.09022)]
+
+- GigaWorld Policy, [[github](https://github.com/open-gigaai/giga-world-policy)], [[paper](https://arxiv.org/abs/2603.17240v1)]
 
 
 -----------------
