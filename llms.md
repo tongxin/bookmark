@@ -12,3 +12,9 @@
 ## Training methodologies, Optimizer
 
 Gram Newton-Schulz[2026], [[github](https://github.com/Dao-AILab/gram-newton-schulz/)]
+
+
+----------------------
+## Training systems
+
+- Relax: An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale[2026], [[github](https://github.com/redai-infra/Relax)][[paper](https://arxiv.org/abs/2604.11554)]

@@ -12,11 +12,16 @@
 - Nemo RL, https://github.com/NVIDIA-NeMo/RL
 - Nemo Gym, https://github.com/NVIDIA-NeMo/Gym
 - Cosmos-RL, https://github.com/nvidia-cosmos/cosmos-rl
+- PivotRL, [[paper](https://arxiv.org/pdf/2603.21383)]
+    - A turn level RL algorithm
 
 -------------------
 ## GenAI & World Model
 
 - Cosmos-Predict2.5, https://github.com/nvidia-cosmos/cosmos-predict2.5, [Paper](https://arxiv.org/abs/2511.00062)
+
+- GR00T Dreams, https://github.com/nvidia/gr00t-dreams, [paper](https://arxiv.org/abs/2505.12705)
+    - NVIDIA Isaac GR00T-Dreams blueprint generates vast amounts of synthetic trajectory data using NVIDIA Cosmos world foundation models, prompted by a single image and language instructions. This enables robots to learn new tasks in unfamiliar environments without needing specific teleoperation data.
 
 - DreamDojo, https://github.com/NVIDIA/DreamDojo, [Paper](https://arxiv.org/abs/2602.06949)
     - Presents with 44k hours of egocentric video dataset
@@ -25,7 +30,7 @@
 
 
 -------------------
-## Physical AI and Robotics
+## Physical AI, VLA and Robotics
 
 - Isaac GR00T, https://github.com/NVIDIA/Isaac-GR00T, [Project](https://developer.nvidia.com/isaac/gr00t), [Paper](https://arxiv.org/abs/2503.14734)
     - A humanoid VLA foundation model that integrates VLM based reasoning and DiT based action modules

@@ -8,3 +8,4 @@
 - cuFFT, examples dir https://github.com/NVIDIA/CUDALibrarySamples/tree/main/cuFFT
 - cuSolver, examples dir https://github.com/NVIDIA/CUDALibrarySamples/tree/main/cuSOLVER
 - cuOpt, https://github.com/NVIDIA/cuopt
+    - Agent guide, https://github.com/NVIDIA/cuopt-examples/tree/main/cuopt-agent

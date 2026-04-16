@@ -70,3 +70,8 @@
     - Jitendra Malik proposes to use inverse normalized time instead of path length for weights in his X tweets.
 
 
+-----------------
+## AI for Math & Science
+
+- Artificial Intelligence and the Structure of Mathematics[2026], [[paper](https://arxiv.org/abs/2604.06107v1)]
+    - Hypergraphs and universal properties of mathematics
