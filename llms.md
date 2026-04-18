@@ -12,7 +12,7 @@
 ## Training methodologies, Optimizer
 
 Gram Newton-Schulz[2026], [[github](https://github.com/Dao-AILab/gram-newton-schulz/)]
-
+The Newton-Muon Optimizer[2026], [[paper](https://arxiv.org/pdf/2604.01472)][[slides](https://www.weijie-su.com/files/DL_Opt_muon.pdf)]
 
 ----------------------
 ## Training systems
