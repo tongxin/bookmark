@@ -2,7 +2,7 @@
 
 
 -----------------
-## GenAI & World model & interactive AI & VLA
+## GenAI & World model & interactive AI
 
 - Classifier free Diffusion Guidance[2021], [[paper](https://arxiv.org/abs/2207.12598)]
     - Learns to predict the noise given the condition and without condition.
@@ -58,6 +58,30 @@
 
 - GigaWorld Policy, [[github](https://github.com/open-gigaai/giga-world-policy)], [[paper](https://arxiv.org/abs/2603.17240v1)]
 
+
+-----------------
+## Physical AI
+
+- π0.7[2026], [[blog](https://www.pi.website/blog/pi07)], [[paper](https://www.pi.website/download/pi07.pdf)]
+
+- [[blog](https://www.pi.website/blog/pistar06)], [[paper](https://www.pi.website/download/pistar06.pdf)]
+
+- π0.5[2025], [[blog](https://www.pi.website/blog/pi05)], [[paper](https://www.pi.website/download/pi05.pdf)]
+
+- RDT-1B[2025], [[blog](https://rdt-robotics.github.io/rdt-robotics/)], [[paper](https://arxiv.org/abs/2410.07864)]
+
+- RDT2[2026], [[project](https://rdt-robotics.github.io/rdt2/)], [[paper](https://arxiv.org/abs/2602.03310)]
+    - A foundation model that can achieve zero-shot deployment on unseen embodiments
+    - 10,000+ hours of real world home and office scene videos produced on 100+ UMIs
+
+- Generalist GEN-0[2025][[blog](https://generalistai.com/blog/nov-04-2025-GEN-0)], GEN-1[2026][[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
+    - Embodied Foundation Models That Scale with Physical Interaction
+
+- UMI gripper[2024], [[project](https://umi-gripper.github.io/)], [[paper](https://arxiv.org/abs/2402.10329)]
+
+- Diffusion Policy[2023], [[github](https://github.com/real-stanford/diffusion_policy)], [[paper](https://arxiv.org/abs/2303.04137)]
+
+- CoT-VLA[2025], [[project](https://cot-vla.github.io/)], [[paper](https://arxiv.org/abs/2503.22020)]
 
 -----------------
 

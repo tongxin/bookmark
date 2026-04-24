@@ -18,3 +18,8 @@ The Newton-Muon Optimizer[2026], [[paper](https://arxiv.org/pdf/2604.01472)][[sl
 ## Training systems
 
 - Relax: An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale[2026], [[github](https://github.com/redai-infra/Relax)][[paper](https://arxiv.org/abs/2604.11554)]
+
+----------------------
+## VLM & Omni-modal LLMs
+
+- vLLM Omni, [[github](https://github.com/vllm-project/vllm-omni)], [[paper](https://arxiv.org/abs/2602.02204)]
