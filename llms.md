@@ -9,10 +9,12 @@
 
 
 ----------------------
-## Training methodologies, Optimizer
+## Training methodologies and theory, Optimizer
 
-Gram Newton-Schulz[2026], [[github](https://github.com/Dao-AILab/gram-newton-schulz/)]
+- Gram Newton-Schulz[2026], [[github](https://github.com/Dao-AILab/gram-newton-schulz/)]
 The Newton-Muon Optimizer[2026], [[paper](https://arxiv.org/pdf/2604.01472)][[slides](https://www.weijie-su.com/files/DL_Opt_muon.pdf)]
+
+- There Will Be a Scientific Theory of Deep Learning[2026], [[paper](https://arxiv.org/abs/2604.21691)]
 
 ----------------------
 ## Training systems

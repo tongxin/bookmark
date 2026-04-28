@@ -95,7 +95,7 @@
 
 
 -----------------
-## AI for Math & Science
+## AI in a Science Perspective
 
 - Artificial Intelligence and the Structure of Mathematics[2026], [[paper](https://arxiv.org/abs/2604.06107v1)]
     - Hypergraphs and universal properties of mathematics
