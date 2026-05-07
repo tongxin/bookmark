@@ -6,7 +6,7 @@
 
 - CMU | LLM Inference | Fall 2025, [[video](https://www.youtube.com/watch?v=F-mduXzNcRQ&list=PL8PYTP1V4I8DY15Ob83nmwBAVyNtUQadX&index=12)]
 
-- Stanford | CS336, Language Modeling from Scratch | Spring 2026, [[video](https://www.youtube.com/watch?v=JuoVZkPBiKk&list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)]
+- Stanford | CS336, Language Modeling from Scratch | Spring 2026, [[home](https://cs336.stanford.edu/)][[video](https://www.youtube.com/watch?v=JuoVZkPBiKk&list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)]
 
 - Stanford | CME296, Diffusion & Large Vision Models | Spring 2026, [[video](https://www.youtube.com/watch?v=tr-CUpw--ck&list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu)]
 
